@@ -1,2 +1,3 @@
-# my-portfolio
-this is my first git repository
+# My-portfolio
+This is my first git repository
+Author-muhammad musthafa
